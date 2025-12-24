@@ -91,8 +91,13 @@ The Power BI dashboard visualizes the SQL-generated summary tables to highlight 
 The dashboard is designed for **quick business insights and decision-making**.
 
 ### Dashboard Previews
-![Executive Overview]([link_to_image_1](https://github.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/blob/main/Images/Contract%20%26%20Payment%20Analysis%20Report.png))
-![Contract & Payment Analysis]([link_to_image_2](https://github.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/blob/main/Images/Contract%20%26%20Payment%20Analysis%20Report.png))
+
+### Executive Overview
+![Executive Overview](https://github.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/blob/main/Images/Executive%20Overview.png)
+
+### Contract & Payment Analysis
+![Contract & Payment Analysis](https://github.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/blob/main/Images/Contract%20%26%20Payment%20Analysis%20Report.png)
+
 
 ---
 
