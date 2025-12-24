@@ -1,0 +1,17 @@
+gender,SeniorCitizen,Partner,Dependents,total_customers,churned_count,churn_rate
+Male,0,No,No,1381,418,30.27
+Male,1,Yes,No,281,105,37.37
+Male,0,Yes,No,567,128,22.57
+Male,0,No,Yes,209,43,20.57
+Female,1,No,No,317,158,49.84
+Male,1,No,No,244,118,48.36
+Female,0,Yes,Yes,839,124,14.78
+Male,1,Yes,Yes,44,12,27.27
+Female,0,No,No,1338,429,32.06
+Male,1,No,Yes,5,1,20.00
+Female,1,No,Yes,3,1,33.33
+Female,1,Yes,No,209,73,34.93
+Female,1,Yes,Yes,39,8,20.51
+Male,0,Yes,Yes,818,105,12.84
+Female,0,Yes,No,596,114,19.13
+Female,0,No,Yes,142,32,22.54
