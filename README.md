@@ -90,7 +90,6 @@ The Power BI dashboard visualizes the SQL-generated summary tables to highlight 
 
 The dashboard is designed for **quick business insights and decision-making**.
 
-### Dashboard Previews
 
 ### Executive Overview
 ![Executive Overview](https://raw.githubusercontent.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/main/Images/Executive%20Overview%20Report.png)
