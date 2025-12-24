@@ -98,7 +98,7 @@ The dashboard is designed for **quick business insights and decision-making**.
 
 
 ### Contract & Payment Analysis
-![Executive Overview](Images/Executive%20Overview.png)
+![Contract & Payment Analysis](https://github.com/Abdulrahmanbanat/Telco-Customer-Churn-Analysis/blob/main/Images/Contract%20%26%20Payment%20Analysis%20Report.png)
 
 
 ---
